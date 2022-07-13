@@ -28,12 +28,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://13.231.125.81:8081/repository/sample-snapshots/</url>
+		    <url>http://18.191.52.86:8081/repository/Snapshots-Kiran/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.231.125.81:8081/repository/sample-releases/</url>
+		    <url>http://18.191.52.86:8081/repository/Release-kiran/</url>
 		</repository>
   	</distributionManagement>
 	
