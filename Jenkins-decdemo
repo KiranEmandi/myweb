@@ -1,4 +1,4 @@
-pipeline{
+pipeline{salar
     agent any
     stages{
         stage("GIT checkout"){
