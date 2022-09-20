@@ -1,4 +1,4 @@
-pipeline{kiran
+pipeline{kiirran
   agent any
   stages{
     stage("Git Checkout"){
